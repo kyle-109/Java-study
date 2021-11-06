@@ -1,8 +1,8 @@
 # JAVA-STUDY
 * '이것이 자바다' 책을 읽고 자료 공유, 정리 및 알고리즘 스터디
 ## 이것이 자바다 책 스터디
-[이것이 자바다](http://www.yes24.com/Product/Goods/15651484?OzSrank=2)
-[알고리즘 스터디](https://github.com/Lela12/JAVA-AlgorithmStudy.git)
+* [이것이 자바다](http://www.yes24.com/Product/Goods/15651484?OzSrank=2)
+* [알고리즘 스터디](https://github.com/Lela12/JAVA-AlgorithmStudy.git)
 ## 규칙
 * 주단위로 책을 정리한다.
 * 책의 주요내용 정리를 한다.
