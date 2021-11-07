@@ -70,11 +70,11 @@
   * NIO 입출력/네트워킹
 ### 알고리즘 일정
 * 1주차 
-  * 11월 8일 [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
-  * 11월 9일 [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
-  * 11월 10일 [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
-  * 11월 11일 [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
-  * 11월 12일 [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
+  * 11월 8일 [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
+  * 11월 9일 [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
+  * 11월 10일 [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)
+  * 11월 11일 [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
+  * 11월 12일 [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
 ### 벌금
 * 발표 준비 안했을 시 2000원
 * 결석 시 2000원
