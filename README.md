@@ -70,8 +70,8 @@
   * NIO 입출력/네트워킹
 ### 알고리즘 일정
 * 1주차 
-  * 11월 8일 [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
-  * 11월 9일 [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
+  * 11월 8일   [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
+  * 11월 9일   [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
   * 11월 10일 [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)
   * 11월 11일 [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
   * 11월 12일 [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
