@@ -3,7 +3,7 @@
 ## 이것이 자바다 및 알고리즘 스터디
 * [이것이 자바다](http://www.yes24.com/Product/Goods/15651484?OzSrank=2)
 * [프로그래머스](https://programmers.co.kr/)
-## 파일 
+## 처음 파일 생성할 때
 * cmd 또는 Git bash를 켜준다.
 * git clone https://github.com/Lela12/Java-study.git
 * cd Java-Study
@@ -11,6 +11,13 @@
 * git add . 
 * git commit -m "입력하고 싶은 메세지" 예)git commit -m "로또의 최고 순위와 최저 순위"
 * git remote add origin https://github.com/Lela12/Java-study.git
+* git remote -v
+* git push origin main
+## 기존 파일 수정힐 때
+* Java-Study폴더에서 마우스 오른쪽버튼 눌러 Git bash를 켜준다.
+* git add .
+* git commit -m "입력하고 싶은 메세지" 예)git commit -m "로또의 최고 순위와 최저 순위"
+* git pull origin main
 * git remote -v
 * git push origin main
 ## '이것이 자바다' 규칙
