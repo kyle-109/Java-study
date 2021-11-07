@@ -14,7 +14,6 @@
 * git add . 
 * git status
 * git commit -m "입력하고 싶은 메세지" 예)git commit -m "로또의 최고 순위와 최저 순위"
-* git branch main
 * git push origin main
 ## '이것이 자바다' 규칙
 * 주단위로 책을 정리한다.
