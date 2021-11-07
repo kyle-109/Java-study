@@ -4,16 +4,14 @@
 * [이것이 자바다](http://www.yes24.com/Product/Goods/15651484?OzSrank=2)
 * [프로그래머스](https://programmers.co.kr/)
 ## 파일 
-* 알고리즘 파일을 제출 할 폴더를 만든다 ex)Algoritm-Java-Study
-* 해당 폴더로 이동한다.
-* 폴더에서 마우스 오른쪽 버튼을 눌러 git bash here 또는 powershell창을 열어준다.
-* git init
+* cmd 또는 Git bash를 켜준다.
 * git clone https://github.com/Lela12/Java-study.git
-* git remote -v
-* git pull origin main
-* git add . 
+* cd Java-Study
 * git status
+* git add . 
 * git commit -m "입력하고 싶은 메세지" 예)git commit -m "로또의 최고 순위와 최저 순위"
+* git remote add origin https://github.com/Lela12/Java-study.git
+* git remote -v
 * git push origin main
 ## '이것이 자바다' 규칙
 * 주단위로 책을 정리한다.
@@ -72,11 +70,11 @@
   * NIO 입출력/네트워킹
 ### 알고리즘 일정
 * 1주차 
-  * 11월 8일 [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
-  * 11월 9일 [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
-  * 11월 10일 [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
-  * 11월 11일 [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
-  * 11월 12일 [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
+  * 11월 8일   [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
+  * 11월 9일   [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
+  * 11월 10일 [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)
+  * 11월 11일 [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
+  * 11월 12일 [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
 ### 벌금
 * 발표 준비 안했을 시 2000원
 * 결석 시 2000원
