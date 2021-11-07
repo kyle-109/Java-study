@@ -6,10 +6,9 @@
 ## 파일 
 * 알고리즘 파일을 제출 할 폴더를 만든다 ex)Algoritm-Java-Study
 * 해당 폴더로 이동한다.
-* cmd창을 연다.
+* 폴더에서 마우스 오른쪽 버튼을 눌러 git bash here 또는 powershell창을 열어준다.
 * git init
-* git remote add orgin https://github.com/Lela12/Java-study.git
-* git remote add upstream  https://github.com/Lela12/Java-study.git
+* git clone https://github.com/Lela12/Java-study.git
 * git remote -v
 * git pull origin main
 * git add . 
