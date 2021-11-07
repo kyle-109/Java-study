@@ -4,16 +4,14 @@
 * [이것이 자바다](http://www.yes24.com/Product/Goods/15651484?OzSrank=2)
 * [프로그래머스](https://programmers.co.kr/)
 ## 파일 
-* 알고리즘 파일을 제출 할 폴더를 만든다 ex)Algoritm-Java-Study
-* 해당 폴더로 이동한다.
-* 폴더에서 마우스 오른쪽 버튼을 눌러 git bash here 또는 powershell창을 열어준다.
-* git init
+* cmd 또는 Git bash를 켜준다.
 * git clone https://github.com/Lela12/Java-study.git
-* git remote -v
-* git pull origin main
-* git add . 
+* cd Java-Study
 * git status
+* git add . 
 * git commit -m "입력하고 싶은 메세지" 예)git commit -m "로또의 최고 순위와 최저 순위"
+* git remote add origin https://github.com/Lela12/Java-study.git
+* git remote -v
 * git push origin main
 ## '이것이 자바다' 규칙
 * 주단위로 책을 정리한다.
