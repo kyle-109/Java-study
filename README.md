@@ -3,6 +3,21 @@
 ## 이것이 자바다 및 알고리즘 스터디
 * [이것이 자바다](http://www.yes24.com/Product/Goods/15651484?OzSrank=2)
 * [프로그래머스](https://programmers.co.kr/)
+## 파일 
+* 알고리즘 파일을 제출 할 폴더를 만든다 ex)Algoritm-Java-Study
+* 해당 폴더로 이동한다.
+* cmd창을 연다.
+* git init
+* git remote add orgin https://github.com/Lela12/Java-study.git
+* git remote add upstream  https://github.com/Lela12/Java-study.git
+* git remote -v
+* git pull origin main
+* git add . 
+* git status
+* git commit -m "입력하고 싶은 메세지" 예)git commit -m "로또의 최고 순위와 최저 순위"
+* git branch main
+* git push origin main
+* 
 ## '이것이 자바다' 규칙
 * 주단위로 책을 정리한다.
 * 책의 주요내용 정리를 한다.
