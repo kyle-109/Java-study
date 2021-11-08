@@ -3,14 +3,21 @@
 ## 이것이 자바다 및 알고리즘 스터디
 * [이것이 자바다](http://www.yes24.com/Product/Goods/15651484?OzSrank=2)
 * [프로그래머스](https://programmers.co.kr/)
-## 파일 
-* cmd 또는 Git bash를 켜준다.
+## 처음 파일 생성
+* cmd 또는 Git bash를 실행한다.
 * git clone https://github.com/Lela12/Java-study.git
 * cd Java-Study
 * git status
 * git add . 
-* git commit -m "입력하고 싶은 메세지" 예)git commit -m "로또의 최고 순위와 최저 순위"
+* git commit -m "입력하고 싶은 메세지" 예)git commit -m "2021-11-07 직사각형 별찍기"
 * git remote add origin https://github.com/Lela12/Java-study.git
+* git remote -v
+* git push origin main
+## 기존 파일 수정
+* Java-Study폴더에서 마우스 오른쪽버튼 눌러 Git bash를 실행한다.
+* git add .
+* git commit -m "입력하고 싶은 메세지" 예)git commit -m "로또의 최고 순위와 최저 순위"
+* git pull origin main
 * git remote -v
 * git push origin main
 ## '이것이 자바다' 규칙
@@ -30,8 +37,7 @@
 * [신 재 원]
 * [이 후 경]
 * [주 효 진]
-* [신 재 원]
-
+* [김 정 수]
 ## 이것이 자바다 일정 
 * 1주차 
   * 자바 시작하기 
@@ -69,9 +75,9 @@
 * 13주
   * NIO 입출력/네트워킹
 ### 알고리즘 일정
-* 1주차 
-  * 11월 8일   [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
-  * 11월 9일   [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
+* 1주차 s
+  * 11월 8일 [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) [심채윤] [김정수] [유승민] [주효진] [김윤희] [이후경]
+  * 11월 9일 [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) [유승민] [김정수] [주효진] [김윤희] [이후경]
   * 11월 10일 [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)
   * 11월 11일 [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
   * 11월 12일 [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
@@ -79,7 +85,7 @@
 * 발표 준비 안했을 시 2000원
 * 결석 시 2000원
 * 지각 시 10분 당 100원
-* 문제 풀지 않았을 시 500원
+* 문제 미제출시 500원
 * 마지막 모임에서 남은 금액에 대한 환급을 받는다.
 * 중도 하차 하는 사람은 보증금을 돌려 받지 못한다.
 
