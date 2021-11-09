@@ -40,11 +40,11 @@
 * [김 정 수]
 ## 이것이 자바다 일정 
 * 1주차 
-  * 자바 시작하기 
+  * [자바 시작하기](./Java/Chapter1.md) 
     * 발표- , 내용정리 - 김윤희
-  * 변수와 타입
+  * [변수와 타입](   )
     * 발표- , 내용정리 - 유승민
-  * 연산자
+  * [연산자](  )
     * 발표- , 내용정리 - 주효진
 * 2주차 
   * 조건문과 반복문
@@ -77,10 +77,10 @@
 ### 알고리즘 일정
 * 1주차 s
   * 11월 8일 [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) [심채윤] [김정수] [유승민] [주효진] [김윤희] [이후경]
-  * 11월 9일 [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) [유승민] [김정수] [주효진] [김윤희] [이후경]
-  * 11월 10일 [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)
-  * 11월 11일 [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
-  * 11월 12일 [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
+  * 11월 9일 [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) [유승민] [김정수] [주효진] [김윤희] [이후경] [심채윤]
+  * 11월 10일 [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) [주효진][유승민] [김윤희] [김정수]
+  * 11월 11일 [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)[유승민] [김정수]
+  * 11월 12일 [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)[유승민] [김정수]
 ### 벌금
 * 발표 준비 안했을 시 2000원
 * 결석 시 2000원
