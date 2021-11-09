@@ -32,7 +32,7 @@
       * Java SE(Standard Edition) - 기본 에디션 : <b>자바 가상 기계(JVM : Java Vertual Machine)를 비롯해서 자바 프로그램 개발에 필수적인 도구와 라이브러리, API를 정의한다.</b> 프로그램을 개발하기 위해서는 반드시 Java SE(Standard Edition)의 구현체인 자바 개발 키트 JDK(Java Development Kit)를 설치해야 한다.
       * Java EE(Enterprise Edition) -서버용 애플리케이션 개발 에디션 : 분산 환경(네트워크, 인터넷)에서 서버용 애플리케이션을 개발하기 위한 도구 및 라이브러리 API를 정의한다. 서버용 애플리케이션으로는 Servlet/JSP를 이용한 웹 애플리케이션, 분산 처리 컴포넌트인 EJB(Enterprise Java Bean) 그리고 XML 웹 서비스 등이 있다.
    
-   * 스레드 생성 및 제어와 관련된 라이브러리 API를 제공하고 있기 때문에 실행되는 운영체제에 상관없이 멀티 스레드(Multi-Thread)를 쉽게 구현할 수 있다.
+   * 스레드 생성 및 제어와 관련된 라이브러리 API를 제공하고 있기 때문에 운영체제에 상관없이 멀티 스레드(Multi-Thread)를 쉽게 구현할 수 있다.
    
    * 동적 로딩(Dynamic Loading)을 지원한다.
       * 애플리케이션이 실행될 때 모든 객체가 생성되지 않고 객체가 필요한 시점에 클래스를 동적 로딩해서 생성한다.
@@ -47,11 +47,29 @@
         * 바이트 코드 파일이 JVM 구동 명령어에 의해 JVM에서 해석되고 해당 운영체제에 맞게 기계어로 번역된다.
         
 ## 자바 개발 환경 구축
+* 자바 개발 도구(JDK) 설치
+    * Java SE의 구현체는 JDK(JRE + 개발에 필요한 도구)과 JRE(JVM, 라이브러리 API)가 있다.
+    * JDK 설치 방법
+        * [오라클](https://www.oracle.com/java/technologies/downloads/)에서 Java8이상을 운영체제에 맞게 설치한다.
+        * 내 컴퓨터 > 속성 > 고급 시스템 설정 > 환경변수로 들어가준다.
+        * 시스템 변수에서 새로 만들기를 누르고 시스템 변수 편집 화면이 나오면 변수 이름에 JAVA_HOME, 변수 값에 JDK가 설치된 경로를 넣는다.
+        * 시스템 변수에 있는 Path 편집 화면에서 변수 값 앞에 %JAVA_HOME%\bin;을 추가한다.
+        * 환경변수가 잘 적용됐는지 확인하기 위해 cmd에서 javac -version을 입력하고 버전이 출력되는지 확인한다.
 
+* API 도큐먼트
+    * JDK에 포함된 API들이 방대하기 때문에 쉽게 찾을 수 있도록 [API DOCUMENT](https://docs.oracle.com/javase/8/docs/)를 제공한다.
+    
 ## 자바 프로그램 개발 순서
-
-## 주석과 실행문
-
+* 소스 작성에서부터 실행까지
+    * .java 소스 파일 작성 
+    * 컴파일러(javac.exe)로 바이트 코드 파일(.class) 생성
+    * JVM 구동 명령어(java.exe)로 실행
+* 프로그램 소스 분석
+    * 클래스 : 필드 또는 메소드를 포함하는 블록
+    * 메소드 : 어떤 일을 처리하는 실행문들을 모아 놓은 블록
+    
 ## 이클립스 설치 
+* 이클립스는 프로그램을 개발하기 위한 통합 개발 환경(IDE : Integrated Development Environment)을 제공한다.
+* [이클립스](https://www.eclipse.org/)에서 Eclipse IDE for Java EE Developer 압축 파일을 다운로드 받고 eclipse.exe 파일을 실행한다.
 
 ## 풀인원 설치와 실행
