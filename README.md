@@ -16,9 +16,8 @@
 ## 기존 파일 수정
 * Java-Study폴더에서 마우스 오른쪽버튼 눌러 Git bash를 실행한다.
 * git add .
-* git commit -m "입력하고 싶은 메세지" 예)git commit -m "로또의 최고 순위와 최저 순위"
+* git commit -m "입력하고 싶은 메세지" 예)git commit -m "2021-11-07 직사각형 별찍기"
 * git pull origin main
-* git remote -v
 * git push origin main
 ## '이것이 자바다' 규칙
 * 주단위로 책을 정리한다.
@@ -78,9 +77,9 @@
 * 1주차 s
   * 11월 8일 [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) [심채윤] [김정수] [유승민] [주효진] [김윤희] [이후경]
   * 11월 9일 [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) [유승민] [김정수] [주효진] [김윤희] [이후경] [심채윤]
-  * 11월 10일 [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) [주효진][유승민] [김윤희]
-  * 11월 11일 [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)[유승민]
-  * 11월 12일 [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)[유승민]
+  * 11월 10일 [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) [주효진] [유승민] [김윤희] [김정수] [심채윤] [이후경]
+  * 11월 11일 [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)[유승민] [김정수] [주효진]
+  * 11월 12일 [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)[유승민] [김정수]
 ### 벌금
 * 발표 준비 안했을 시 2000원
 * 결석 시 2000원
