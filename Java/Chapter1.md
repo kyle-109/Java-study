@@ -72,4 +72,3 @@
 * 이클립스는 프로그램을 개발하기 위한 통합 개발 환경(IDE : Integrated Development Environment)을 제공한다.
 * [이클립스](https://www.eclipse.org/)에서 Eclipse IDE for Java EE Developer 압축 파일을 다운로드 받고 eclipse.exe 파일을 실행한다.
 
-## 풀인원 설치와 실행
