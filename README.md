@@ -74,14 +74,14 @@
 * 13주
   * NIO 입출력/네트워킹
 ### 알고리즘 일정
-* 1주차 s
+* 1주차
   * 11월 8일 [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) [심채윤] [김정수] [유승민] [주효진] [김윤희] [이후경]
   * 11월 9일 [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) [유승민] [김정수] [주효진] [김윤희] [이후경] [심채윤]
   * 11월 10일 [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) [주효진] [유승민] [김윤희] [김정수] [심채윤] [이후경]
   * 11월 11일 [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)[유승민] [김정수] [주효진] [김윤희] [심채윤] [이후경] 
   * 11월 12일 [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)[유승민] [김정수] [주효진] [김윤희] [이후경] [심채윤]
-* 2주차 s
-  * 11월 15일 [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
+* 2주차
+  * 11월 15일 [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) [주효진] 
   * 11월 16일 [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)
   * 11월 17일 [최대공약수와 최대공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)
   * 11월 18일 [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)
