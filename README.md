@@ -40,14 +40,16 @@
 ## 이것이 자바다 일정 
 * 1주차 
   * [자바 시작하기](./Java/Chapter1.md) 
-    * 발표- , 내용정리 - 김윤희
-  * [변수와 타입](   )
-    * 발표- , 내용정리 - 유승민
+    * 발표- 이후경, 내용정리 - 김윤희
+  * [변수와 타입](./Java/Chapter2.md)
+    * 발표- 유승민, 내용정리 - 유승민
   * [연산자](./Java/Chapter3.md)
-    * 발표- , 내용정리 - 주효진
+    * 발표- 심채윤, 내용정리 - 주효진
 * 2주차 
-  * 조건문과 반복문
-  * 참조 타입
+  * [조건문과 반복문](   )
+    * 발표, 내용정리 - 유승민
+  * [참조 타입](   )
+    * 발표, 내용정리 - 주효진
 * 3주차
   * 클래스
 * 4주차        
@@ -81,7 +83,7 @@
   * 11월 11일 [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)[유승민] [김정수] [주효진] [김윤희] [심채윤] [이후경] 
   * 11월 12일 [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)[유승민] [김정수] [주효진] [김윤희] [이후경] [심채윤]
 * 2주차
-  * 11월 15일 [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) [주효진] 
+  * 11월 15일 [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) [주효진] [김윤희] 
   * 11월 16일 [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)
   * 11월 17일 [최대공약수와 최대공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)
   * 11월 18일 [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)
