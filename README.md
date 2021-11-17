@@ -81,8 +81,8 @@
   * 11월 12일 [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)[유승민] [김정수] [주효진] [김윤희] [이후경] [심채윤]
 * 2주차
   * 11월 15일 [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) [주효진] [김윤희] [김정수] [이후경] [유승민]
-  * 11월 16일 [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) [김정수] [주효진] [김윤희] 
-  * 11월 17일 [최대공약수와 최대공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) [김정수]
+  * 11월 16일 [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) [김정수] [주효진] [김윤희] [유승민]
+  * 11월 17일 [최대공약수와 최대공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) [김정수] [주효진]
   * 11월 18일 [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) [김정수]
   * 11월 19일 [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) [김정수]
 ### 벌금
