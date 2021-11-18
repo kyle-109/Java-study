@@ -83,7 +83,7 @@
   * 11월 15일 [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) [주효진] [김윤희] [김정수] [이후경] [유승민]
   * 11월 16일 [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) [김정수] [주효진] [김윤희] [유승민]
   * 11월 17일 [최대공약수와 최대공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) [김정수] [주효진] [김윤희]
-  * 11월 18일 [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) [김정수]
+  * 11월 18일 [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) [김정수] [김윤희]
   * 11월 19일 [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) [김정수]
 ### 벌금
 * 발표 준비 안했을 시 2000원
