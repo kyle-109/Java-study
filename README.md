@@ -84,6 +84,12 @@
   * 11월 17일 [최대공약수와 최대공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) [김정수] [주효진] [김윤희] [유승민]
   * 11월 18일 [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) [김정수] [김윤희] [주효진] [유승민]
   * 11월 19일 [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) [김정수] [주효진] [김윤희] 
+* 3주차
+  * 11월 22일 [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) 
+  * 11월 23일 [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) 
+  * 11월 24일 [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) 
+  * 11월 25일 [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) 
+  * 11월 26일 [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) 
 ### 벌금
 * 발표 준비 안했을 시 2000원
 * 결석 시 2000원
