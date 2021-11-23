@@ -85,7 +85,7 @@
   * 11월 19일 [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) [김정수] [주효진] [김윤희] [유승민] [이후경] 
 * 3주차
   * 11월 22일 [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) [주효진] [김윤희] [이후경] [김정수]
-  * 11월 23일 [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) [김정수] [주효진] [김윤희] 
+  * 11월 23일 [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) [김정수] [주효진] [김윤희] [이후경]
   * 11월 24일 [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) [김정수]
   * 11월 25일 [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) [김정수]
   * 11월 26일 [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) [김정수] 
