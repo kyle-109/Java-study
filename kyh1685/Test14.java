@@ -1,4 +1,4 @@
-public class Test13 {
+public class Test14 {
 	public int solution(int n) {
 		int sum = 0;
 
