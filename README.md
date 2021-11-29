@@ -90,7 +90,7 @@
   * 11월 25일 [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) [김정수] [주효진] [김윤희] [이후경] [유승민]
   * 11월 26일 [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) [김정수] [유승민] [주효진] [김윤희] [이후경]
 * 4주차
-  * 11월 29일 [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) [김윤희]
+  * 11월 29일 [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) [김윤희] [김정수]
   * 11월 30일 [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) 
   * 12월 1일 [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)
   * 12월 2일 [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)
