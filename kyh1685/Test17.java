@@ -15,7 +15,7 @@ public class Test17 {
 			}
 			answer += temp != ' ' ? (char)(temp + n) : temp;
 		}
-		
+
 		return answer;
 	}
 }
