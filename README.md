@@ -94,7 +94,7 @@
   * 11월 30일 [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) [주효진] [유승민] [김정수] [김윤희] [이후경]
   * 12월 1일 [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) [김정수] [김윤희] [주효진] [이후경] [유승민]
   * 12월 2일 [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) [김정수] [주효진] [유승민] [이후경] [김윤희]
-  * 12월 3일 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) [김정수] [주효진]
+  * 12월 3일 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) [김정수] [주효진] [김윤희]
 
 ### 벌금
 * 발표 준비 안했을 시 2000원
