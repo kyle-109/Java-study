@@ -95,7 +95,12 @@
   * 12월 1일 [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) [김정수] [김윤희] [주효진] [이후경] [유승민]
   * 12월 2일 [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) [김정수] [주효진] [유승민] [이후경] [김윤희]
   * 12월 3일 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) [김정수] [주효진] [김윤희]
-
+* 5주차
+  * 12월 6일 [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) 
+  * 12월 7일 [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) 
+  * 12월 8일 [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) 
+  * 12월 9일 [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) 
+  * 12월 10일 [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) 
 ### 벌금
 * 발표 준비 안했을 시 2000원
 * 결석 시 2000원
