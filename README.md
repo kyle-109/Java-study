@@ -105,7 +105,7 @@
   * 12월 9일  [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) [김정수] [김윤희] [주효진] [이후경] [유승민]
   * 12월 10일 [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) [김정수] [김윤희] [유승민] [주효진]
 * 5주차
-  * 12월 13일  [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) 
+  * 12월 13일  [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) [주효진]
   * 12월 14일  [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) 
   * 12월 15일  [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) 
   * 12월 16일  [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) 
