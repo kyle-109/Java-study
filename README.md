@@ -104,7 +104,7 @@
   * 12월 8일  [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) [김정수] [주효진] [이후경] [김윤희] [유승민]
   * 12월 9일  [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) [김정수] [김윤희] [주효진] [이후경] [유승민]
   * 12월 10일 [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) [김정수] [김윤희] [유승민] [주효진]
-* 5주차
+* 6주차
   * 12월 13일  [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) [주효진] [유승민] [김정수] [김윤희] 
   * 12월 14일  [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) [김윤희] [주효진] [김정수] [유승민]
   * 12월 15일  [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) [김정수] [김윤희] [주효진] [유승민]
