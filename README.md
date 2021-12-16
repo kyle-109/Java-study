@@ -108,7 +108,7 @@
   * 12월 13일  [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) [주효진] [유승민] [김정수] [김윤희] 
   * 12월 14일  [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) [김윤희] [주효진] [김정수] [유승민]
   * 12월 15일  [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) [김정수] [김윤희] [주효진] [유승민]
-  * 12월 16일  [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) [김정수] [주효진]
+  * 12월 16일  [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) [김정수] [주효진] [김윤희] 
   * 12월 17일 [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) [김정수]
 ### 벌금
 * 발표 준비 안했을 시 2000원
