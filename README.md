@@ -59,13 +59,19 @@
   * [예외처리](./Java/Chapter10.md)
     * 발표, 내용정리 - 김윤희
 * 5주
-  * 기본 API클래스 [1~6](./Java/) [7~11](./Java/) [12~16](./Java/chapter11-3.pdf)
-    * 발표, 내용정리 - 김정수, 이후경, 주효진
+  * 기본 API클래스 
+    * 발표, 내용정리 - [1 ~ 6](./Java/) 김정수
+    * 발표, 내용정리 - [7 ~ 11](./Java/) 이후경
+    * 발표, 내용정리 - [12 ~ 16](./Java/chapter11-3.pdf) 주효진
 * 6주
   * 멀티 스레드
+    * 발표, 내용정리 - [1 ~ 5]() 유승민
+    * 발표, 내용정리 - [6 ~ 9](./Java/Chapter12_2.md) 김윤희
 * 7주
-  * 제네릭
-  * 람다식
+  * [제네릭]()
+    * 발표, 내용정리 - 주효진
+  * [람다식]()
+    * 발표, 내용정리 - 김정수
 * 8주
   * 컬렉션 프레임워크
   * 스트림과 병렬 처리
@@ -110,6 +116,12 @@
   * 12월 15일  [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) [김정수] [김윤희] [주효진] [유승민]
   * 12월 16일  [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) [김정수] [주효진] [김윤희] 
   * 12월 17일 [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903) [김정수] [김윤희] [주효진] [유승민]
+* 7주차
+  * 12월 20일  [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+  * 12월 21일  [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) 
+  * 12월 22일  [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389) 
+  * 12월 23일  [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) 
+  * 12월 24일 [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) 
 ### 벌금
 * 발표 준비 안했을 시 2000원
 * 결석 시 2000원
