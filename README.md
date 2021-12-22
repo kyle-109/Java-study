@@ -119,7 +119,7 @@
 * 7주차
   * 12월 20일  [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) [김윤희] [김정수] [주효진] [유승민]
   * 12월 21일  [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) [김정수] [주효진] [유승민] [김윤희]
-  * 12월 22일  [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389) [김정수] [김윤희] 
+  * 12월 22일  [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389) [김정수] [김윤희] [주효진]
   * 12월 23일  [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) [김정수]
   * 12월 24일 [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) [김정수]
 ### 벌금
