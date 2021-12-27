@@ -68,7 +68,7 @@
     * 발표, 내용정리 - [1 ~ 5](./Java/) 유승민
     * 발표, 내용정리 - [6 ~ 9](./Java/Chapter12_2.md) 김윤희
 * 7주
-  * [제네릭](./Java/)
+  * [제네릭](./Java/Chapter13.pdf)
     * 발표, 내용정리 - 주효진
   * [람다식](./Java/)
     * 발표, 내용정리 - 김정수
@@ -125,7 +125,7 @@
   * 12월 23일  [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) [김정수] [김윤희] [유승민] [주효진]
   * 12월 24일 [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) [김정수] [주효진] [유승민] [김윤희]
 * 8주차
-  * 12월 27일  [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) [김윤희]
+  * 12월 27일  [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) [김윤희] [주효진]
   * 12월 28일  [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) 
   * 12월 29일  [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) 
   * 12월 30일  [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) 
