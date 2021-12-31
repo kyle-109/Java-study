@@ -129,7 +129,7 @@
   * 12월 28일  [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) [김정수] [김윤희] [주효진] [유승민]
   * 12월 29일  [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935) [주효진] [김윤희] [김정수] [유승민]
   * 12월 30일  [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) [주효진] [김정수] [김윤희] [유승민]
-  * 12월 31일 [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) [주효진]
+  * 12월 31일 [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) [주효진] [김윤희] 
 ### 벌금
 * 발표 준비 안했을 시 2000원
 * 결석 시 2000원
