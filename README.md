@@ -132,7 +132,7 @@
   * 12월 31일 [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) [주효진] [김윤희] [김정수] [유승민]
 * 9주차
   * 1월 3일  [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) [주효진] [김정수] [김윤희] [유승민]
-  * 1월 4일  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) [주효진] [유승민]
+  * 1월 4일  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) [주효진] [유승민] [김정수]
   * 1월 5일  [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) 
   * 1월 6일  [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) 
   * 1월 7일  [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) 
