@@ -135,7 +135,7 @@
   * 1월 4일  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) [주효진] [유승민] [김정수] [김윤희]
   * 1월 5일  [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) [김윤희] [주효진] [김정수] [유승민]
   * 1월 6일  [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) [김윤희] [주효진] [유승민] [김정수]
-  * 1월 7일  [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) 
+  * 1월 7일  [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) [김윤희] 
 ### 벌금
 * 발표 준비 안했을 시 2000원
 * 결석 시 2000원
