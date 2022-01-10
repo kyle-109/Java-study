@@ -137,7 +137,7 @@
   * 1월 6일  [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) [김윤희] [주효진] [유승민] [김정수]
   * 1월 7일  [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) [김윤희] [주효진] [김정수]
 * 10주차
-  * 1월 10일 [소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
+  * 1월 10일 [소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) [주효진]
   * 1월 11일 [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
   * 1월 12일 [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)
   * 1월 13일 [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
