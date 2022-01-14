@@ -145,7 +145,7 @@
   * 1월 11일 [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) [김윤희] [주효진] [김정수] [유승민]
   * 1월 12일 [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) [김정수] [주효진] [김윤희] [유승민]
   * 1월 13일 [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) [김정수] [주효진] [김윤희] [유승민]
-  * 1월 14일 [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) [주효진]
+  * 1월 14일 [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) [주효진] [김정수]
 ### 벌금
 * 발표 준비 안했을 시 2000원
 * 결석 시 2000원
