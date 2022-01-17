@@ -147,7 +147,7 @@
   * 1월 13일 [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) [김정수] [주효진] [김윤희] [유승민]
   * 1월 14일 [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) [주효진] [김정수] [김윤희] 
 * 11주차
-  * 1월 17일 [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) 
+  * 1월 17일 [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) [주효진]
   * 1월 18일 [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) 
   * 1월 19일 [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) 
   * 1월 20일 [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) 
