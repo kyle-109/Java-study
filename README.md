@@ -151,7 +151,7 @@
   * 1월 18일 [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) [주효진] [김윤희] [김정수]
   * 1월 19일 [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) [김윤희] [주효진] [김정수]
   * 1월 20일 [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) [주효진] [김정수] [김윤희] 
-  * 1월 21일 [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) [김윤희] 
+  * 1월 21일 [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) [김윤희] [주효진]
 ### 벌금
 * 발표 준비 안했을 시 2000원
 * 결석 시 2000원
